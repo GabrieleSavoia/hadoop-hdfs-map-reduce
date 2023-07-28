@@ -1,0 +1,5 @@
+doc1 : La storia iniziò nella città di Berlino nel lontano 1790
+doc2 : Oggi Luca va con tutti i suoi amici a giocare a calcetto
+doc3 : Questo fine settimana esco con alcuni amici di amici
+doc4 : Durante la notte alcuni animali escono per cercare cibo
+doc5 : Matteo e Luca torneranno a casa alle 23
